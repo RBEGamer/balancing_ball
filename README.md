@@ -9,4 +9,4 @@ This is a 48h* speed project with the goal:
 
 
 
-(* the printing-time is not included, becuase my printer is really really slow :D)
+( *  the printing-time is not included, becuase my printer is really really slow :D)
